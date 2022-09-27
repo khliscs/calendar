@@ -1,0 +1,8 @@
+{
+  "name": "Calendar",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "9f428b8d"
+}
